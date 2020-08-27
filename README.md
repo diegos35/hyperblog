@@ -7,3 +7,6 @@ MASTER 2
 
 
 *Creado por le increible platzi Team
+
+
+*Incliye ejemplos en Windows, Linux Y Mac
